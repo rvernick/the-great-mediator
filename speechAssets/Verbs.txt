@@ -1,0 +1,12 @@
+accuses
+argues
+asked
+believes
+contends
+demands
+said
+states
+suggests
+thinks
+wants
+

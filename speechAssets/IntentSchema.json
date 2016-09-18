@@ -1,0 +1,39 @@
+{
+  "intents": [
+    {
+      "intent": "CheckFemaleIsRightIntent",
+      "slots": [
+        {
+          "name": "FemaleSubject",
+          "type": "Female_Subjects"
+        },
+        {
+          "name": "Verb",
+          "type": "Verbs"
+        }
+      ]
+    },
+    {
+      "intent": "CheckMaleIsRightIntent",
+      "slots": [
+        {
+          "name": "MaleSubject",
+          "type": "Male_Subjects"
+        },
+        {
+          "name": "Verb",
+          "type": "Verbs"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}

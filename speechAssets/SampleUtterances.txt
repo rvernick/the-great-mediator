@@ -1,0 +1,4 @@
+CheckFemaleIsRightIntent my {femalePronoun} {verb}
+CheckFemaleIsRightIntent {femalePronoun} {verb}
+CheckMaleIsRightIntent my {malePronoun} {verb}
+CheckMaleIsRightIntent {malePronoun} {verb}
