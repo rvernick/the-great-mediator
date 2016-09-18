@@ -11,7 +11,7 @@
 /**
  * App ID for the skill
  */
-var APP_ID = undefined; //OPTIONAL: replace with "amzn1.echo-sdk-ams.app.[your-unique-value-here]";
+var APP_ID = "amzn1.ask.skill.b3b14306-9252-40de-ad82-eef696463571";
 
 /**
  * Array containing space responses.
