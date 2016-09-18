@@ -1,4 +1,20 @@
-CheckFemaleIsRightIntent my {femalePronoun} {verb}
-CheckFemaleIsRightIntent {femalePronoun} {verb}
-CheckMaleIsRightIntent my {malePronoun} {verb}
-CheckMaleIsRightIntent {malePronoun} {verb}
+CheckFemaleIsRightIntent my {FemaleSubject} {Verb} I should
+CheckFemaleIsRightIntent my {FemaleSubject} {Verb} I could
+CheckFemaleIsRightIntent my {FemaleSubject} {Verb} that I should
+CheckFemaleIsRightIntent my {FemaleSubject} {Verb} that
+CheckFemaleIsRightIntent my {FemaleSubject} {Verb}
+CheckFemaleIsRightIntent {FemaleSubject} {Verb} I should
+CheckFemaleIsRightIntent {FemaleSubject} {Verb} I could
+CheckFemaleIsRightIntent {FemaleSubject} {Verb} that I should
+CheckFemaleIsRightIntent {FemaleSubject} {Verb} that
+CheckFemaleIsRightIntent {FemaleSubject} {Verb}
+CheckMaleIsRightIntent my {MaleSubject} {Verb} I should
+CheckMaleIsRightIntent my {MaleSubject} {Verb} I could
+CheckMaleIsRightIntent my {MaleSubject} {Verb} that I should
+CheckMaleIsRightIntent my {MaleSubject} {Verb} that
+CheckMaleIsRightIntent my {MaleSubject} {Verb}
+CheckMaleIsRightIntent {MaleSubject} {Verb} I should
+CheckMaleIsRightIntent {MaleSubject} {Verb} I could
+CheckMaleIsRightIntent {MaleSubject} {Verb} that I should
+CheckMaleIsRightIntent {MaleSubject} {Verb} that
+CheckMaleIsRightIntent {MaleSubject} {Verb}
