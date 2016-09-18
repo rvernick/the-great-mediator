@@ -53,7 +53,7 @@ Resolution.prototype.eventHandlers.onSessionStarted = function (sessionStartedRe
 
 Resolution.prototype.eventHandlers.onLaunch = function (launchRequest, session, response) {
     //console.log("onLaunch requestId: " + launchRequest.requestId + ", sessionId: " + session.sessionId);
-    handleNewResolutionRequest(response);
+    response.ask("Tell me who you're arguing with and what they said");
 };
 
 /**
