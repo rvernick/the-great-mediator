@@ -1,11 +1,16 @@
 CheckFemaleIsRightIntent my {FemaleSubject} {Verb} I should
+CheckFemaleIsRightIntent my {FemaleSubject} {Verb} I should do the dishes tonight
 CheckFemaleIsRightIntent my {FemaleSubject} {Verb} I could
+CheckFemaleIsRightIntent my {FemaleSubject} {Verb} I could clean my room
 CheckFemaleIsRightIntent my {FemaleSubject} {Verb} that I should
+CheckFemaleIsRightIntent my {FemaleSubject} {Verb} that I should walk the dog
 CheckFemaleIsRightIntent my {FemaleSubject} {Verb} that
 CheckFemaleIsRightIntent my {FemaleSubject} {Verb}
 CheckFemaleIsRightIntent {FemaleSubject} {Verb} I should
+CheckFemaleIsRightIntent {FemaleSubject} {Verb} I should empty the dishwasher
 CheckFemaleIsRightIntent {FemaleSubject} {Verb} I could
 CheckFemaleIsRightIntent {FemaleSubject} {Verb} that I should
+CheckFemaleIsRightIntent {FemaleSubject} {Verb} that I should fold the laundry
 CheckFemaleIsRightIntent {FemaleSubject} {Verb} that
 CheckFemaleIsRightIntent {FemaleSubject} {Verb}
 CheckMaleIsRightIntent my {MaleSubject} {Verb} I should
