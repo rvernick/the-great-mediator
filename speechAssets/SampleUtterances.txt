@@ -1,3 +1,6 @@
+CheckFemaleIsRightIntent my niece claims I should listen to more pop music
+CheckFemailIsRightIntent my girlfriend thinks I should get a haircut
+CheckMaleIsRightIntent my nephew doesn't believe could survive without his cell phone
 CheckFemaleIsRightIntent my {FemaleSubject} {Verb} I should
 CheckFemaleIsRightIntent my {FemaleSubject} {Verb} I should do the dishes tonight
 CheckFemaleIsRightIntent my {FemaleSubject} {Verb} I could

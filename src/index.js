@@ -74,7 +74,7 @@ Resolution.prototype.intentHandlers = {
     },
 
     "AMAZON.HelpIntent": function (intent, session, response) {
-        response.tell("I try to understand about your disagreement and provide advice as to how you can resolve it.  If you explain what was said, I might be able to help");
+        response.ask("I try to understand about your disagreement and provide advice as to how you can resolve it.  Would you tell me what they said?");
     },
 
     "AMAZON.StopIntent": function (intent, session, response) {

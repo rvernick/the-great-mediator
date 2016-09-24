@@ -1,10 +1,13 @@
-Father
-Dad
-Pop
-Grandpa
-Grandfather
-Brother
-Uncle
-Dude
-He
-This Guy
+father
+dad
+pop
+grandpa
+grandfather
+brother
+uncle
+nephew
+dude
+he
+this guy
+boyfriend
+husband
